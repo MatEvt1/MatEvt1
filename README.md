@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**MatEvt1/MatEvt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In case you are wondering i'am currently open to new roles. 🙋
 
-Here are some ideas to get you started:
+I have graduated a Bauman Moscow State Technical university, after that i have been working at global company who perform testing, inspection and certification worldwide.
+Now i am looking for a new position in Data Analysis.
+You could check up my repository to have a look at my pet-projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+
+- Strategic Thinking to identify and implement data driven strategies influencing decision making by analyzing opportunities in large, rich data sets
+- Utilize analytical applications to identify trends and relationships between different pieces of data
+- Experimental design and analysis (A/B testing), demand estimation, cohort and funnel analyses
+
+#opentowork #data_analyst #product_analyst
