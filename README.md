@@ -3,7 +3,7 @@
 In case you are wondering i'am currently open to new roles. 🙋
 
 I have graduated a Bauman Moscow State Technical university, after that i have been working at global company who perform testing, inspection and certification worldwide.
-Now i am looking for a new position in Data Analysis.
+Now i'am looking for a new position in Data Analysis.
 You could check up my repository to have a look at my pet-projects.
 
 Skills:
